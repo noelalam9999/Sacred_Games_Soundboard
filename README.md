@@ -1,4 +1,4 @@
-# SacredGamesSoundboard
+# Sacred Games Soundboard
 A fun project consisting of all dialogues from the popular Netflix original Sacred Games                                    
 
 IN ORDER TO LAUNCH THIS APP IN YOUR ANDROID STUDIO FOLLOW THESE STEPS                            
